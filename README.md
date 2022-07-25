@@ -1,5 +1,5 @@
 - # Sobre Mim
 - 👋 Olá, meu nome é @jubrandao
 - 👍 Meu email de contato é julia.ribeiro.luz@escola.pr.gov.br
-- 👀 Eu estou interessado em aprender a programar novas linguagens
-- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- 👀 Eu estou interessado em aprender a programar
+- 🌱 Eu estou aprendendo a programar recentemente no JavaScript e Scratch
